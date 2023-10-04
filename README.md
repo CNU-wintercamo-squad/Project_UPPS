@@ -18,7 +18,7 @@ print('고양이는 너무 귀여워요!!!')
 
 #### Reference
 
-[크집사 링크](https://www.mma.go.kr/index.do, "크집사 링크")
+[크집사 링크](https://www.mma.go.kr, "크집사 링크")
 
 #### Issue
 
